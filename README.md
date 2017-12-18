@@ -1,4 +1,4 @@
-# StudioV
+﻿# StudioV
 
 StudioV is working on a mixed reality production platform. Taking advantage of real-time rendering ability of game engine Unity, we produce CGI content that syncing environment, character skeleton tracking animation and facial expression animation in real-time. During production, actors will also be immersed in the virtual environment, which can help actors set up the mood.
 
@@ -52,19 +52,21 @@ http://www.binaryvr.com/
 
 - To use PUN, you need an App ID, follow the instruction to get an App ID for your application
  https://doc.photonengine.com/en-us/realtime/current/getting-started/obtain-your-app-id
--  Initial setup of PUN: https://doc.photonengine.com/en-us/pun/current/getting-started/initial-setup
+  1) Initial setup of PUN: https://doc.photonengine.com/en-us/pun/current/getting-started/initial-setup
 
--  Go to PhotonServerSetting, make sure the Hosting protocal is set to Tcp.
+  2)  Go to PhotonServerSetting, make sure the Hosting protocal is set to Tcp.
 
-- In PhotonServerSetting find Rpc list and press ”Clear RPCs” and then ”Refresh RPCs”.
+  3) In PhotonServerSetting find Rpc list and press ”Clear RPCs” and then ”Refresh RPCs”.
 
 - Import MicroLibrary: Download the source code from link https://www.codeproject.com/Articles/98346/Microsecond-and-
 Millisecond-NET-Timer, copy the file MicroLibrary.cs to Assets/Scripts/Tool/ in the project
-Note: After clicking Clear in Console, there shouldn’t be any complie errors after you import these 2 assets. - Import BinaryVR SDK (Recommended): you can get the SDK after purchase
-1) Go to path binarysdk/examples/Unity/Assets/ExampleScene/Scripts/, copy and replace FaceExpressionController.cs into Assets/Scripts/AvatarSpecific/ in the project.
-2) Go to path binarysdk/examples/Unity/Assets/BinaryFaceHMD/, copy this folder and place it under Assets folder in the project.
-3) Go to path binarysdk/examples/Unity/Assets/StreamingAssets/, copy the file model.bfh in this folder to Assets/StreamingAssets/ in the project
-4) Refer to example scene in binarysdk to set it up
+Note: After clicking Clear in Console, there shouldn’t be any complie errors after you import these 2 assets. 
+
+- Import BinaryVR SDK (Recommended): you can get the SDK after purchase
+  1) Go to path binarysdk/examples/Unity/Assets/ExampleScene/Scripts/, copy and replace FaceExpressionController.cs into Assets/Scripts/AvatarSpecific/ in the project.
+  2) Go to path binarysdk/examples/Unity/Assets/BinaryFaceHMD/, copy this folder and place it under Assets folder in the project.
+  3) Go to path binarysdk/examples/Unity/Assets/StreamingAssets/, copy the file model.bfh in this folder to Assets/StreamingAssets/ in the project
+  4) Refer to example scene in binarysdk to set it up
 
 ## License
 
