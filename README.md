@@ -44,7 +44,7 @@ https://www.tobiipro.com/product-listing/tobii-pro-sdk/
 http://www.binaryvr.com/
 
 #### Configure project step by step
-```
+
 1. Download this project and open it in Unity 2017.2
 
 2. Import the unity assets/plugins you need, please check Appendix A for a list of assets we use
@@ -64,7 +64,6 @@ Note: After clicking Clear in Console, there shouldn’t be any complie errors a
 2) Go to path binarysdk/examples/Unity/Assets/BinaryFaceHMD/, copy this folder and place it under Assets folder in the project.
 3) Go to path binarysdk/examples/Unity/Assets/StreamingAssets/, copy the file model.bfh in this folder to Assets/StreamingAssets/ in the project
 4) Refer to example scene in binarysdk to set it up
-```
 
 ## License
 
