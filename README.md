@@ -35,16 +35,13 @@ Follow the link to set up VR system https://support.steampowered.com/kb_article.
 * In all instructions, we will only provide explanations of the components that we are using, 
 if you want to use other hardware or software, you can try to work on your own or contact studio.
 
-
-```
-3.Prepare face tracking
+3. Prepare face tracking
 - Eye tracking: hardware required. We are using Tobii VR for eye tracking. Tobii Pro SDK Unity is used for development.
 https://www.tobii.com/tech/products/vr/
 https://www.tobiipro.com/product-listing/tobii-pro-sdk/
 
 - Facial expression tracking: hardware required. We are using BinaryVR for facial expression tracking.
 http://www.binaryvr.com/
-```
 
 #### Configure project step by step
 ```
