@@ -75,7 +75,7 @@ Note: After clicking Clear in Console, there shouldn’t be any complie errors a
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
-## Documentations
+## Documentation
 Read the [documentation](documentation.pdf) file for details
 
 
