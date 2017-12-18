@@ -49,10 +49,11 @@ http://www.binaryvr.com/
 
 2. Import the unity assets/plugins you need, please check Appendix A for a list of assets we use
 - Import Photon Unity Networking(PUN), version 1.87 https://www.assetstore.unity3d.com/en/#!/content/1786
-1) To use PUN, you need an App ID, follow the instruction to get an App ID for your application
+
+..1 To use PUN, you need an App ID, follow the instruction to get an App ID for your application
 https://doc.photonengine.com/en-us/realtime/current/getting-started/obtain-your-app-id
 
-2) Initial setup of PUN: https://doc.photonengine.com/en-us/pun/current/getting-started/initial-setup
+..2 Initial setup of PUN: https://doc.photonengine.com/en-us/pun/current/getting-started/initial-setup
 
 3) Go to PhotonServerSetting, make sure the Hosting protocal is set to Tcp.
 
