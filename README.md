@@ -27,7 +27,7 @@ A step by step series of examples that tell you have to get a development env ru
 1. Prepare motion capture system
 Motion capture system is required to track skeleton and rigidbody movement, and stream tracking data to Unity. 
 Follow the instruction in following link to set up motion capture system 
-(https://wiki.optitrack.com/index.php?title=OptiTrack_Documentation_Wiki)
+[Link to optitrack](https://wiki.optitrack.com/index.php?title=OptiTrack_Documentation_Wiki)
 
 2. Prepare VR system
 VR system allows actors see the scene, other actors and themselves immersively. You need a VR compatible computer to run VR application. 
