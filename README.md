@@ -22,12 +22,12 @@ What things you need to install the software and how to install them
 
 A step by step series of examples that tell you have to get a development env running
 
+#### Before Unity project configuration
 ```
-Before configuration of Unity project*
-
 1. Prepare motion capture system
 Motion capture system is required to track skeleton and rigidbody movement, and stream tracking data to Unity. 
-Follow the instruction in following link to set up motion capture system https://wiki.optitrack.com/index.php?title=OptiTrack_Documentation_Wiki
+Follow the instruction in following link to set up motion capture system 
+(https://wiki.optitrack.com/index.php?title=OptiTrack_Documentation_Wiki)
 
 2. Prepare VR system
 VR system allows actors see the scene, other actors and themselves immersively. You need a VR compatible computer to run VR application. 
@@ -36,8 +36,6 @@ Follow the link to set up VR system https://support.steampowered.com/kb_article.
 if you want to use other hardware or software, you can try to work on your own or contact studio.
 ```
 
-
-#### Before Unity project configuration
 ```
 3.Prepare face tracking
 - Eye tracking: hardware required. We are using Tobii VR for eye tracking. Tobii Pro SDK Unity is used for development.
