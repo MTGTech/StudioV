@@ -20,7 +20,10 @@ What things you need to install the software and how to install them
 
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running
+A step by step series of examples that tell you have to get a development env running.
+
+Note: In all instructions, we will only provide explanations of the components that we are using, 
+if you want to use other hardware or software, you can try to work on your own or contact studio.
 
 #### Before Unity project configuration
 
@@ -32,8 +35,7 @@ https://wiki.optitrack.com/index.php?title=OptiTrack_Documentation_Wiki
 2. Prepare VR system
 VR system allows actors see the scene, other actors and themselves immersively. You need a VR compatible computer to run VR application. 
 Follow the link to set up VR system https://support.steampowered.com/kb_article.php?ref=2001-UXCM-4439
-* In all instructions, we will only provide explanations of the components that we are using, 
-if you want to use other hardware or software, you can try to work on your own or contact studio.
+
 
 3. Prepare face tracking
 - Eye tracking: hardware required. We are using Tobii VR for eye tracking. Tobii Pro SDK Unity is used for development.
@@ -54,13 +56,18 @@ http://www.binaryvr.com/
  https://doc.photonengine.com/en-us/realtime/current/getting-started/obtain-your-app-id
   1) Initial setup of PUN: https://doc.photonengine.com/en-us/pun/current/getting-started/initial-setup
 
-  2)  Go to PhotonServerSetting, make sure the Hosting protocal is set to Tcp.
+  2) Go to PhotonServerSetting, make sure the Hosting protocal is set to Tcp.
 
   3) In PhotonServerSetting find Rpc list and press ”Clear RPCs” and then ”Refresh RPCs”.
 
 - Import MicroLibrary: Download the source code from link https://www.codeproject.com/Articles/98346/Microsecond-and-
 Millisecond-NET-Timer, copy the file MicroLibrary.cs to Assets/Scripts/Tool/ in the project
-Note: After clicking Clear in Console, there shouldn’t be any complie errors after you import these 2 assets. 
+
+- Import SteamVR SDK: https://www.assetstore.unity3d.com/en/#!/content/32647 
+  1) Open Launcher scene, go to Assets/Prefabs folder, and drag [CameraRig] object to Launcher scene
+  2) Find TobiiPro_Host object in the scene, assign the EyetrackerCam field with Camera(eye) object under [CameraRig]/Camera(head) 
+
+Note: After clicking Clear in Console, there shouldn’t be any complie errors after you import these 3 assets. 
 
 - Import BinaryVR SDK (Recommended): you can get the SDK after purchase
   1) Go to path binarysdk/examples/Unity/Assets/ExampleScene/Scripts/, copy and replace FaceExpressionController.cs into Assets/Scripts/AvatarSpecific/ in the project.
