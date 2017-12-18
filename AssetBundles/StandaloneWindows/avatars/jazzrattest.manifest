@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 3064086665
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: df51a8cbc92ccb02aacd4e33a24ac499
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dd16408ab968e3aa9ac18515e4d79d88
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Avatars/JazzRatTest.prefab
+- Assets/Images/Characters/Characters/JazzRatTest_image.png
+- Assets/Resources/Avatars/JazzRatTest_facialExpressions.txt
+Dependencies: []

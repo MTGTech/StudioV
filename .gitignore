@@ -1,0 +1,38 @@
+# =============== #
+# Unity generated #
+# =============== #
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uilds/
+/[Ll]ogs/
+*.pidb.meta
+ProjectVersion.txt
+sysinfo.txt
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+/*.csproj
+/*.unityproj
+/*.booproj
+/**.sln
+/*.suo
+/*.user
+/*.userprefs
+/*.pidb
+/*.svd
+UnityVS/
+UnityVS.*
+build_info.txt
+**/[Bb]in
+**/[Oo]bj
+
+# =================== #
+# Optitrack generated #
+# =================== #
+
+*.csproj
+*.sln
+
+DataRecording/

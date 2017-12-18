@@ -1,0 +1,61 @@
+ManifestFileVersion: 0
+CRC: 1417958062
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: avatars/alligatortest
+      Dependencies: {}
+    Info_1:
+      Name: avatars/stefan
+      Dependencies: {}
+    Info_2:
+      Name: avatars/hulkaas
+      Dependencies: {}
+    Info_3:
+      Name: avatars/jazzrattest
+      Dependencies: {}
+    Info_4:
+      Name: avatars/robot
+      Dependencies: {}
+    Info_5:
+      Name: avatars/spidermanaas
+      Dependencies: {}
+    Info_6:
+      Name: avatars/supermanaas
+      Dependencies: {}
+    Info_7:
+      Name: avatars/deadpoolaas
+      Dependencies: {}
+    Info_8:
+      Name: avatars/venomaas
+      Dependencies: {}
+    Info_9:
+      Name: avatars/wonderwomanaas
+      Dependencies: {}
+    Info_10:
+      Name: avatars/batmanaas
+      Dependencies: {}
+    Info_11:
+      Name: avatars/babyaas
+      Dependencies: {}
+    Info_12:
+      Name: avatars/elvisaas
+      Dependencies: {}
+    Info_13:
+      Name: avatars/putinaas
+      Dependencies: {}
+    Info_14:
+      Name: avatars/trumpaas
+      Dependencies: {}
+    Info_15:
+      Name: avatars/zlatanaas
+      Dependencies: {}
+    Info_16:
+      Name: avatars/ironmanaas
+      Dependencies: {}
+    Info_17:
+      Name: avatars/kimjongunass
+      Dependencies: {}
+    Info_18:
+      Name: avatars/spidergwenaas
+      Dependencies: {}

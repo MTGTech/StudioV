@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 1165931002
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6cc9dda0bb90666435d82859b09f3b9c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 476faff791d1471d23c74e9a33c07195
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Images/Characters/Characters/AlligatorTest_image.png
+- Assets/Resources/Avatars/AlligatorTest.prefab
+- Assets/Resources/Avatars/AlligatorTest_facialExpressions.txt
+Dependencies: []

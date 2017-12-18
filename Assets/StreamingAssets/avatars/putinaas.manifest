@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 1124808504
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c965c2463ff5336af1650d9c3326f5d0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1f967fcff4980316c0b81ad345e6bd92
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Avatars/PutinAAS.prefab
+- Assets/Resources/Avatars/PutinAAS_facialExpressions.txt
+Dependencies: []

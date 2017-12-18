@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 789965332
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bde107ea58080f1142634841ae3b3b62
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dd16408ab968e3aa9ac18515e4d79d88
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Avatars/Robot_facialExpressions.txt
+- Assets/Images/Characters/Characters/Robot_image.png
+- Assets/Resources/Avatars/Robot.prefab
+Dependencies: []

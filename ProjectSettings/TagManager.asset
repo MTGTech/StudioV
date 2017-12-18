@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Avatar
+  - CameraManager
+  - CameraClient
+  - VirtualCamera
+  - AvatarAndSceneManager
+  - AvatarUI
+  - CameraClientPickup
+  - SceneColliders
+  - Rigidbody
+  - Alien
+  - 360Camera
+  - ScaledByVivespace
+  - Timer
+  - OptitrackCalibrationPoint
+  - HMD
+  - CameraLockPos
+  - AAS_HMD_Avatar
+  - AAS_Optitrack_Avatar
+  - AAS_HMD_Face
+  - AAS_Optitrack_Face
+  - AAS_HMD_EyeL
+  - AAS_HMD_EyeR
+  - AAS_Optitrack_EyeL
+  - AAS_Optitrack_EyeR
+  - AAS_NeckUpper
+  - AAS_HeadLower
+  - ExpressionController
+  - optitrackClient
+  - AAS_HeadBone
+  - AAS_EyeLevel
+  - PickedUpCam
+  - AAS_OtherMeshes
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - StereoRender_Ignore
+  - HMD
+  - Remote
+  - PoleAndCamera
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
