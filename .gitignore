@@ -36,3 +36,4 @@ build_info.txt
 *.sln
 
 DataRecording/
+.DS_Store
