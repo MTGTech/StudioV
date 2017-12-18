@@ -50,14 +50,13 @@ http://www.binaryvr.com/
 2. Import the unity assets/plugins you need, please check Appendix A for a list of assets we use
 - Import Photon Unity Networking(PUN), version 1.87 https://www.assetstore.unity3d.com/en/#!/content/1786
 
-⋅⋅1. To use PUN, you need an App ID, follow the instruction to get an App ID for your application
-https://doc.photonengine.com/en-us/realtime/current/getting-started/obtain-your-app-id
+- 1. To use PUN, you need an App ID, follow the instruction to get an App ID for your application
+ https://doc.photonengine.com/en-us/realtime/current/getting-started/obtain-your-app-id
+- 2. Initial setup of PUN: https://doc.photonengine.com/en-us/pun/current/getting-started/initial-setup
 
-⋅⋅2. Initial setup of PUN: https://doc.photonengine.com/en-us/pun/current/getting-started/initial-setup
+- 3. Go to PhotonServerSetting, make sure the Hosting protocal is set to Tcp.
 
-⋅⋅3. Go to PhotonServerSetting, make sure the Hosting protocal is set to Tcp.
-
-⋅⋅4. In PhotonServerSetting find Rpc list and press ”Clear RPCs” and then ”Refresh RPCs”.
+- 4. In PhotonServerSetting find Rpc list and press ”Clear RPCs” and then ”Refresh RPCs”.
 - Import MicroLibrary: Download the source code from link https://www.codeproject.com/Articles/98346/Microsecond-and-
 Millisecond-NET-Timer, copy the file MicroLibrary.cs to Assets/Scripts/Tool/ in the project
 Note: After clicking Clear in Console, there shouldn’t be any complie errors after you import these 2 assets. - Import BinaryVR SDK (Recommended): you can get the SDK after purchase
